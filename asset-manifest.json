@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef8d4ca.css",
-    "main.js": "/static/js/main.e1e16d4d.js",
+    "main.css": "/static/css/main.065656e4.css",
+    "main.js": "/static/js/main.d5af7122.js",
     "static/js/496.8797436b.chunk.js": "/static/js/496.8797436b.chunk.js",
     "static/media/zksync.jpg": "/static/media/zksync.7f4c1f48af272ea32305.jpg",
     "static/media/Background.gif": "/static/media/Background.5f4fd8c71f92ff65835e.gif",
     "static/media/stark.jpg": "/static/media/stark.deed39349595a80f8ef5.jpg",
+    "static/media/Dydx.jpg": "/static/media/Dydx.ae124baf22032219ab05.jpg",
     "static/media/optimism.jpg": "/static/media/optimism.7c2d83e9d6a5638a51df.jpg",
+    "static/media/Loopring.jpg": "/static/media/Loopring.1e24bce8daca665f0eae.jpg",
+    "static/media/loopring.png": "/static/media/loopring.7d75879a0ed3a50e2407.png",
     "static/media/arbitrum.png": "/static/media/arbitrum.df65519dee73a132fbce.png",
     "static/media/arbitrum.jpg": "/static/media/arbitrum.9118f617e1d4caa6532e.jpg",
+    "static/media/Immutable.jpg": "/static/media/Immutable.710107d76377bf30e25b.jpg",
+    "static/media/Metis.jpg": "/static/media/Metis.1cfe05ff7afd92de23be.jpg",
     "static/media/Starknet.png": "/static/media/Starknet.4e01e6fa9adb6a3bbb7b.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.eef8d4ca.css.map": "/static/css/main.eef8d4ca.css.map",
-    "main.e1e16d4d.js.map": "/static/js/main.e1e16d4d.js.map",
+    "main.065656e4.css.map": "/static/css/main.065656e4.css.map",
+    "main.d5af7122.js.map": "/static/js/main.d5af7122.js.map",
     "496.8797436b.chunk.js.map": "/static/js/496.8797436b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eef8d4ca.css",
-    "static/js/main.e1e16d4d.js"
+    "static/css/main.065656e4.css",
+    "static/js/main.d5af7122.js"
   ]
 }
