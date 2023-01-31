@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.d485e7ca.css",
-    "main.js": "/static/js/main.b56f639f.js",
+    "main.js": "/static/js/main.754be2ae.js",
     "static/js/496.8797436b.chunk.js": "/static/js/496.8797436b.chunk.js",
     "static/media/Prueba2.gif": "/static/media/Prueba2.b8581a55f3314900db55.gif",
     "static/media/zksync.jpg": "/static/media/zksync.7f4c1f48af272ea32305.jpg",
+    "static/media/Garaga.png": "/static/media/Garaga.13c0376bb036da777c76.png",
+    "static/media/Beerus.png": "/static/media/Beerus.3b39755e91ba1249f657.png",
     "static/media/Background.gif": "/static/media/Background.5f4fd8c71f92ff65835e.gif",
     "static/media/stark.jpg": "/static/media/stark.deed39349595a80f8ef5.jpg",
     "static/media/Kakarot.png": "/static/media/Kakarot.b913fac84838d6111832.png",
@@ -17,17 +19,18 @@
     "static/media/Immutable.jpg": "/static/media/Immutable.710107d76377bf30e25b.jpg",
     "static/media/Papyrus.png": "/static/media/Papyrus.28989e07ef384afd6a83.png",
     "static/media/Metis.jpg": "/static/media/Metis.1cfe05ff7afd92de23be.jpg",
+    "static/media/sphinx.png": "/static/media/sphinx.d5428d1b5c500e268ffc.png",
     "static/media/Starknet.png": "/static/media/Starknet.4e01e6fa9adb6a3bbb7b.png",
     "static/media/braavosLogo.svg": "/static/media/braavosLogo.310be010fe367152f836de76ee7fe793.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/argentLogo.svg": "/static/media/argentLogo.ce676f95173fdceaef5b09b9237fac31.svg",
     "index.html": "/index.html",
     "main.d485e7ca.css.map": "/static/css/main.d485e7ca.css.map",
-    "main.b56f639f.js.map": "/static/js/main.b56f639f.js.map",
+    "main.754be2ae.js.map": "/static/js/main.754be2ae.js.map",
     "496.8797436b.chunk.js.map": "/static/js/496.8797436b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d485e7ca.css",
-    "static/js/main.b56f639f.js"
+    "static/js/main.754be2ae.js"
   ]
 }
